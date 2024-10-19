@@ -1,0 +1,4 @@
+repository "FPS_Shooter@DimaGDD@cloud"
+  path "/"
+    br "/main"
+    co "/main"
